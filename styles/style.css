@@ -484,7 +484,13 @@ margin-bottom: 20px; */
     text-align: start;
     font-size:17px ;
 }
-
+.ft-title{
+    font-size: 17px;
+    text-align: center;
+    
+}
+.footer{display: flex;
+flex-direction: column;}
 }
 
 
