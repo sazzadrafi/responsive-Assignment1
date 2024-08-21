@@ -317,6 +317,9 @@ padding-right:20px ;}
     margin-top: 64px;
 }
 
+
+
+
 /* For mobile phone  */
 
 @media  screen and (max-width:660px) {
@@ -345,8 +348,7 @@ padding-right:20px ;}
         font-size:40px;
     }
     .bannner-description,
-     .section-description,
-     .target-description{
+     .section-description,{
         text-align: center;
         font-size: 14px;    }
 
@@ -371,13 +373,7 @@ padding-right:20px ;}
     margin:148px 74px 150px 88px ;
     padding: 20px 40px ;
     }
-
-    .about{
-        pa
-    }
     
-
-   
     
     .web{
         /* background-image: linear-gradient(rgba(209, 222, 255, 1.00 45deg)); */
@@ -450,4 +446,46 @@ padding-right:20px ;}
     .target-btn{
         font-size: 14px;
     }
+   
+/* .brd{
+border: 1px solid rgb(219,220,222);
+/* box-shadow: 1px 1px 2px; */
+/* padding: 20px;
+border-radius: 16px;
+margin-bottom: 20px; */ 
+.target-description{
+    font-size: 14px;
 }
+.fk-title{
+    font-size: 28px;
+}
+.fk-description{
+    font-size: 12px;
+}
+.sp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    gap: 10px;
+
+}
+.spt{ font-size: 14px;
+    
+    border:1px solid black ;
+    width: 410px;
+    padding:18px 30px;
+    text-align: start;
+    border-radius: 8px
+}
+.support{
+    border:1px solid black ;
+    padding:16px 31px;
+    text-align: start;
+    font-size:17px ;
+}
+
+}
+
+
+
